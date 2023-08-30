@@ -22,10 +22,10 @@ Conditions:
 
 
 # Tutorial
-Press Code
-Press download zip
-First Unzip it its basic
-Sec put the file on
+- Press Code
+- Press download zip
+- First Unzip it its basic
+- Sec put the file on
 # AppData __> .minecraft __> mod
 After Paste it Try in ur launcher , it will worked 
 
