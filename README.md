@@ -19,3 +19,14 @@ Conditions:
 - State changes 
 - Disclose source 
 - Same license 
+
+
+# Tutorial
+Press Code
+Press download zip
+First Unzip it its basic
+Sec put the file on
+# AppData __> .minecraft __> mod
+After Paste it Try in ur launcher , it will worked 
+
+#⚠️ Warning Note , Use Alt if you play other servers , You will get banned anytime , bypass anyserver.
