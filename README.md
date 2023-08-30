@@ -29,4 +29,4 @@ Conditions:
 # AppData __> .minecraft __> mod
 After Paste it Try in ur launcher , it will worked 
 
-#⚠️ Warning Note , Use Alt if you play other servers , You will get banned anytime , bypass anyserver.
+# Warning Note , Use Alt if you play other servers , You will get banned anytime , bypass anyserver.
